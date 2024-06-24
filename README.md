@@ -1,4 +1,4 @@
-# Recipe Bot
+# 🤖 Recipe Bot
 
 This recipe bot is our natural language processing (NLP) course project. 
 When you input ingredients (e.g., 'I have toast, cream, and cinnamon'), the bot will provide a recommended recipe, including the recipe title, ingredients, and instructions based on the input.
